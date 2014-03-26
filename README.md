@@ -1,3 +1,2 @@
 # Angular JS Examples. 
-# This is a change (Bla Bla) for new feature.
-# This is one more change!
+# This is a change for angularjs_examples-feature_1!

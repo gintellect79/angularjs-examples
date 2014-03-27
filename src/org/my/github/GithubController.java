@@ -4,6 +4,11 @@ import java.util.Calendar;
 
 public class GithubController {
 	public int getFirstBranch() {
+		String dateAsString = GithubUtil.getDateAsString(
+				Calendar.getInstance().getTime());
+		if (dateAsString != null) {
+			return 100;
+		}
 		return 1;
 	}
 

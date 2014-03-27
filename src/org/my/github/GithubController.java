@@ -10,6 +10,7 @@ public class GithubController {
 	}
 	
 	public String getSecondBranchName() {
+		// Adding a comment to getSecondBranchName method.
 		return "branch_2";
 	}
 }

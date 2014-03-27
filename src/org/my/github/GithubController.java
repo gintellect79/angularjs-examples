@@ -8,4 +8,8 @@ public class GithubController {
 	public int getSecondBranch() {
 		return 2;
 	}
+	
+	public String getSecondBranchName() {
+		return "branch_2";
+	}
 }
